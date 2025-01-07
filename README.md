@@ -120,6 +120,6 @@ Processes input data and communicates with the parent node.
 
 ---  
 
-Start transforming your home with **HomeConnect** today!  
+ 
 
 
