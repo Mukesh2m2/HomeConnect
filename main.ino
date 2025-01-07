@@ -7,7 +7,7 @@
 #include <Arduino_JSON.h>
 #include <DHT.h>
 
-const char *ssid = "POCO M3";
+const char *ssid = "Galaxy M13";
 const char *password = "********";
 
 char website[] PROGMEM = R"=====(
